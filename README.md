@@ -137,7 +137,7 @@ This has also been provided as a file as embededJson.json.
   "Q-005": {
     "question_id": "FirstName",
     "category": "Contact Information",
-    "question_description": "the first name of compony owner insured.",
+    "question_description": "the first name of company owner insured.",
     "carriers": [
       {
         "carrier_id": "CID-001",
@@ -158,7 +158,7 @@ This has also been provided as a file as embededJson.json.
   "Q-006": {
     "question_id": "LastName",
     "category": "Contact Information",
-    "question_description": "the last name of compony owner insured.",
+    "question_description": "the last name of company owner insured.",
     "carriers": [
       {
         "carrier_id": "CID-001",
@@ -179,7 +179,7 @@ This has also been provided as a file as embededJson.json.
   "Q-007": {
     "question_id": "CompanyName",
     "category": "Company Information",
-    "question_description": "name of compony.",
+    "question_description": "name of company.",
     "carriers": [
       {
         "carrier_id": "CID-001",
@@ -200,7 +200,7 @@ This has also been provided as a file as embededJson.json.
   "Q-008": {
     "question_id": "Email",
     "category": "Contact Information",
-    "question_description": "the email of compony owner insured.",
+    "question_description": "the email of company owner insured.",
     "carriers": [
       {
         "carrier_id": "CID-001",
@@ -221,7 +221,7 @@ This has also been provided as a file as embededJson.json.
   "Q-009": {
     "question_id": "ContactNumber",
     "category": "Contact Information",
-    "question_description": "the email of compony owner insured.",
+    "question_description": "the email of company owner insured.",
     "carriers": [
       {
         "carrier_id": "CID-001",
@@ -270,7 +270,7 @@ This has also been provided as a file as embededJson.json.
       {
         "carrier_id": "CID-001",
         "carrier_name": "Carrier A",
-        "carrier_query": "In the past 3 years how many Workers' Compensation claims were reported?",
+        "carrier_query": "In the past 3 years were any Workers' Compensation claims reported?",
         "choice_type": "Yes/No",
         "conditions_remarks": []
       },
