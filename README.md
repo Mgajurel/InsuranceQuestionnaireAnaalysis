@@ -103,7 +103,7 @@ This has also been provided as a file as embededJson.json.
       {
         "carrier_id": "CID-002",
         "carrier_name": "Carrier B",
-        "carrier_query": "Number of employees?",
+        "carrier_query": "Business Location: City, State?",
         "choice_type": "DropDown",
         "conditions_remarks": ["choices based on zip code provided"]
       }
